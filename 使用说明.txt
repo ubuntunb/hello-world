@@ -1,0 +1,5 @@
+gui-config.json
+
+Shadowsock.exe   
+
+这两个放在一个目录下之后再执行。

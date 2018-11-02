@@ -1,0 +1,111 @@
+{
+  "configs": [
+    {
+      "server": "hk1-sta30.bn6zq.pw",
+      "server_port": 39173,
+      "password": "DyBn4M3CaXzdraf",
+      "method": "chacha20-ietf-poly1305",
+      "plugin": "",
+      "plugin_opts": "",
+      "remarks": "香港,數據用量倍率:1.00",
+      "timeout": 5
+    },
+    {
+      "server": "jp1-sta30.bn6zq.pw",
+      "server_port": 39173,
+      "password": "DyBn4M3CaXzdraf",
+      "method": "chacha20-ietf-poly1305",
+      "plugin": "",
+      "plugin_opts": "",
+      "remarks": "日本,數據用量倍率:1.50",
+      "timeout": 5
+    },
+    {
+      "server": "us1-sta30.bn6zq.pw",
+      "server_port": 39173,
+      "password": "DyBn4M3CaXzdraf",
+      "method": "chacha20-ietf-poly1305",
+      "plugin": "",
+      "plugin_opts": "",
+      "remarks": "美国,數據用量倍率:0.01",
+      "timeout": 5
+    },
+    {
+      "server": "us2-sta30.bn6zq.pw",
+      "server_port": 39173,
+      "password": "DyBn4M3CaXzdraf",
+      "method": "chacha20-ietf-poly1305",
+      "plugin": "",
+      "plugin_opts": "",
+      "remarks": "美国,數據用量倍率:0.40",
+      "timeout": 5
+    },
+    {
+      "server": "hk3-sta30.bn6zq.pw",
+      "server_port": 39173,
+      "password": "DyBn4M3CaXzdraf",
+      "method": "chacha20-ietf-poly1305",
+      "plugin": "",
+      "plugin_opts": "",
+      "remarks": "香港,數據用量倍率:0.01",
+      "timeout": 5
+    },
+    {
+      "server": "ru1-sta30.bn6zq.pw",
+      "server_port": 39173,
+      "password": "DyBn4M3CaXzdraf",
+      "method": "chacha20-ietf-poly1305",
+      "plugin": "",
+      "plugin_opts": "",
+      "remarks": "俄罗斯,數據用量倍率:1.20",
+      "timeout": 5
+    },
+    {
+      "server": "us3-sta30.bn6zq.pw",
+      "server_port": 39173,
+      "password": "DyBn4M3CaXzdraf",
+      "method": "chacha20-ietf-poly1305",
+      "plugin": "",
+      "plugin_opts": "",
+      "remarks": "美国,數據用量倍率:0.01",
+      "timeout": 5
+    }
+  ],
+  "strategy": null,
+  "index": 4,
+  "global": false,
+  "enabled": true,
+  "shareOverLan": false,
+  "isDefault": false,
+  "localPort": 1080,
+  "pacUrl": null,
+  "useOnlinePac": false,
+  "secureLocalPac": true,
+  "availabilityStatistics": false,
+  "autoCheckUpdate": false,
+  "checkPreRelease": false,
+  "isVerboseLogging": false,
+  "logViewer": {
+    "topMost": false,
+    "wrapText": false,
+    "toolbarShown": false,
+    "Font": "Consolas, 8pt",
+    "BackgroundColor": "Black",
+    "TextColor": "White"
+  },
+  "proxy": {
+    "useProxy": false,
+    "proxyType": 0,
+    "proxyServer": "",
+    "proxyPort": 0,
+    "proxyTimeout": 3
+  },
+  "hotkey": {
+    "SwitchSystemProxy": "",
+    "SwitchSystemProxyMode": "",
+    "SwitchAllowLan": "",
+    "ShowLogs": "",
+    "ServerMoveUp": "",
+    "ServerMoveDown": ""
+  }
+}
